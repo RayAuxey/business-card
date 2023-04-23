@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="full_name">Raymond Nyaga</string>
+    <string name="title">Beginner Android Dev</string>
+    <string name="handle">\@rayauxey</string>
+    <string name="email">rayauxey@gmail.com</string>
 </resources>
